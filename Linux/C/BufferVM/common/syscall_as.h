@@ -1,0 +1,12 @@
+//
+// Created by ben on 18/10/16.
+//
+
+#ifndef COMMON_SYSCALL_AS_H
+#define COMMON_SYSCALL_AS_H
+
+#define SYSCALL_NO_LINUX 313
+#define SYSCALL_BUFFERVM 2
+#define SYSCALL_MAX SYSCALL_NO_LINUX + SYSCALL_BUFFERVM
+
+#endif //COMMON_SYSCALL_AS_H

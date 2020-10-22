@@ -1,0 +1,21 @@
+{
+	"ImportPath": "goprobe",
+	"GoVersion": "xgcc",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cihub/seelog",
+			"Comment": "go1.1-81-gc510775",
+			"Rev": "c510775bb50d98213cfafca75a4bc5e3fddc8d8f"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/codeskyblue/go-sh",
+			"Comment": "v0.1-39-gb7c09e5",
+			"Rev": "b7c09e505267c5137dfb15b834299dac33dae7b4"
+		}
+	]
+}

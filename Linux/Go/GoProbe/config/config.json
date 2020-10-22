@@ -1,0 +1,41 @@
+{
+    "sshuser": "ibmadmin",
+    "sshpwd": "us3rpa88",
+    "localproxy": "",
+    "connection": {
+        "collector": "http://9.37.17.118:9000",
+        "interval": 30
+    },
+    "generalintervals": 4,
+    "common": [
+        "Cpu",
+        "Memory"
+    ],
+    "hosts": [
+        {
+            "name": "Checker",
+            "ip": "9.37.26.185",
+            "networkConnectivity": [
+                "9.37.26.109",
+                "9.37.17.118"
+            ]
+        },
+        {
+            "name": "UiData",
+            "ip": "9.37.26.109",
+            "networkConnectivity": []
+        },
+        {
+            "name": "InfluxDb",
+            "ip": "9.37.26.184",
+            "networkConnectivity": [],
+            "commands": [
+                {
+                    "name": "statics",
+                    "comandString": "ls -l | wc -l",
+                    "intervals": 3
+                }
+            ]
+        }
+    ]
+}

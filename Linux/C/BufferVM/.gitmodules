@@ -1,0 +1,6 @@
+[submodule "intelxed/xed"]
+	path = intelxed/xed
+	url = ssh://git@github.com/intelxed/xed.git
+[submodule "intelxed/mbuild"]
+	path = intelxed/mbuild
+	url = ssh://git@github.com/intelxed/mbuild.git
