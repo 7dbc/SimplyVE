@@ -1,0 +1,105 @@
+﻿  vm_detection.cpp
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(84,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(86,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(86,9): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(86,9): error C2065: 'edx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(87,4): error C2146: syntax error: missing ';' before identifier 'push'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(87,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(87,9): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(87,9): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(88,4): error C2146: syntax error: missing ';' before identifier 'push'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(88,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(88,9): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(88,9): error C2065: 'ebx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(90,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(90,4): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(90,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(90,8): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(91,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(91,4): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(91,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(91,8): error C2065: 'ebx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(92,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(92,4): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(92,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(92,8): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(93,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(93,4): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(93,8): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(93,8): error C2065: 'edx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(95,4): error C2146: syntax error: missing ';' before identifier 'in'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(95,4): error C2065: 'in': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(95,7): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(95,7): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(95,12): error C2065: 'dx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(96,4): error C2146: syntax error: missing ';' before identifier 'cmp'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(96,4): error C2065: 'cmp': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(96,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(96,8): error C2065: 'ebx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(97,4): error C2146: syntax error: missing ';' before identifier 'setz'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(97,4): error C2065: 'setz': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(99,4): error C2146: syntax error: missing ';' before identifier 'pop'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(99,4): error C2065: 'pop': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(99,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(99,8): error C2065: 'ebx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(100,4): error C2146: syntax error: missing ';' before identifier 'pop'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(100,4): error C2065: 'pop': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(100,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(100,8): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(101,4): error C2146: syntax error: missing ';' before identifier 'pop'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(101,4): error C2065: 'pop': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(101,8): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(101,8): error C2065: 'edx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(102,3): error C2143: syntax error: missing ';' before '}'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(117,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(119,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(119,9): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(119,9): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(120,4): error C2146: syntax error: missing ';' before identifier 'push'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(120,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(120,9): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(120,9): error C2065: 'ebx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(121,4): error C2146: syntax error: missing ';' before identifier 'push'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(121,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(121,9): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(121,9): error C2065: 'edx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(122,4): error C2146: syntax error: missing ';' before identifier 'push'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(122,4): error C2065: 'push': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(122,9): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(122,9): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(124,8): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(124,13): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(125,4): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(125,4): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(125,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(125,8): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(126,4): error C2146: syntax error: missing ';' before identifier 'cpuid'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(126,4): error C2065: 'cpuid': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(127,4): error C2146: syntax error: missing ';' before identifier 'bt'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(127,4): error C2065: 'bt': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(127,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(127,7): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(128,4): error C2146: syntax error: missing ';' before identifier 'jb'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(128,4): error C2065: 'jb': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(128,7): error C2146: syntax error: missing ';' before identifier 'r_dest'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(128,7): error C2065: 'r_dest': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(129,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(129,4): error C2065: 'jmp': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(129,8): error C2146: syntax error: missing ';' before identifier 'f_dest'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(129,8): error C2065: 'f_dest': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(131,4): error C2146: syntax error: missing ';' before identifier 'r_dest'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(132,5): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(132,9): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(132,9): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(133,5): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(133,5): error C2065: 'mov': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(133,19): error C2065: 'eax': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(135,4): error C2146: syntax error: missing ';' before identifier 'f_dest'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(136,5): error C2065: 'pop': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(136,9): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(136,9): error C2065: 'ecx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(137,5): error C2146: syntax error: missing ';' before identifier 'pop'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(137,5): error C2065: 'pop': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(137,9): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(137,9): error C2065: 'edx': undeclared identifier
+D:\Repos\SimplyVE\C++\VMDetection\vm_detection\vm_detection.cpp(138,9): fatal error C1003: error count exceeds 100; stopping compilation
