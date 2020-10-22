@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  VMDetection.cpp
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(10,2): error C2065: 'UINT64': undeclared identifier
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'time1'
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(10,9): error C2065: 'time1': undeclared identifier
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(10,17): error C3861: 'rdtsc': identifier not found
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(11,2): error C2065: 'UINT64': undeclared identifier
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'time2'
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(11,9): error C2065: 'time2': undeclared identifier
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(11,17): error C3861: 'rdtsc': identifier not found
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(12,6): error C2065: 'time2': undeclared identifier
+D:\PenTest\Apps\VMDetect\VMDetect-master\VMDetect-master\VMDetection\VMDetection.cpp(12,14): error C2065: 'time1': undeclared identifier
