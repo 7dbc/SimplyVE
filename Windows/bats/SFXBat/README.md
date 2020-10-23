@@ -29,9 +29,9 @@ Contents:
 <summary>Required Structure</summary>
 [1] SFX_Downloader.ps1
 
-[2] PAYLOAD.zip.exe
-&emsp;    ├── PAYLOADTOEXECUTE.exe
-&emsp;    ├── preV.bat
-&emsp;    ├── checkV.bat
-&emsp;    └── ...
+[2] PAYLOAD.zip.exe<br />
+&emsp;    ├── PAYLOADTOEXECUTE.exe<br />
+&emsp;    ├── preV.bat<br />
+&emsp;    ├── checkV.bat<br />
+&emsp;    └── ...<br />
 </details>
