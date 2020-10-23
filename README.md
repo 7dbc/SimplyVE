@@ -20,14 +20,14 @@ These are focused on defensive evasion for 'malware' & red-teaming scenarios.
 <summary><strong># Windows</strong></summary><br />
 &emsp;    ├── Assembly<br />
 &emsp;    ├───── VMDetect (Windows Build)<br /><br />
-&emsp;    |
+&emsp;    | <br />
 &emsp;    ├── C++<br />
 &emsp;    ├───── TSCDetect<br />
 &emsp;    ├───── VMDetection<br /><br />
-&emsp;    |
+&emsp;    | <br />
 &emsp;    ├── C#<br />
 &emsp;    ├───── VMDetector<br /><br />
-&emsp;    |
+&emsp;    | <br />
 &emsp;    ├── SFXBat<br />
 &emsp;    ├── VmD<br />
 &emsp;    └── ...<br />
