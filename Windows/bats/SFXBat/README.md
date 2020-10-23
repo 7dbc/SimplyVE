@@ -18,7 +18,7 @@ deleted leaving no file traces for infection analysis.
 
 Contents:
 - PAYLOAD.zip.exe - Benign SFX Archive to show placement of files for production usage.
-'-> Included to show SFX options to control how the archive is handled upon execution.
+<br />'-> Included to show the SFX options to control how the archive is handled upon execution.
 - preV.bat - Bat script to run the VM Detection Script from a hidden window.
 - checkV.bat - The Script that checks for signs of virtualization and cleans the environment during execution.
 - SFX_Downloader.ps1 - The base64 encoded powershell script that pulls and executes the SFXArchive from WebServer.
