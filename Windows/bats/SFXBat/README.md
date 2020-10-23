@@ -1,5 +1,5 @@
 # SFXBat
-# Authered by B1kRb7
+# Authered by b1krb7
 
 Simple bat script, combined with a base64 encoded Powershell Downloader.
 Once the SFX Archive has been downloaded to the Temp Directory, the
